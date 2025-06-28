@@ -4,3 +4,4 @@ A construção da tabela passou pelas seguintes etapas: estabelecimento do méto
 Para reproduzir as informações da tabela dinâmica, o interessado deve clicar no filtro "Subscription Type" localizado na parte esquerda da planilha, a fim de visualizar valores anuais, trimestrais e mensais.
 Lembrando mais uma vez que os dados aqui utilizados e apresentados são fictícios, não sendo oficiais da Xbox ou representantes de vendas.
 Oferecimento do curso: plataforma DIO.me.
+Este arquivo trata-se de um exercício reproduzido (cópia) daquele executado no curso "Excel com Inteligência Artificial"da DIO (Prof. Felipe Aguiar).
